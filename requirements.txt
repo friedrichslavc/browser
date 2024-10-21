@@ -1,8 +1,12 @@
-pillow
-beautifulsoup4
-requests
-dnspython
+pillow==10.3.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+dnspython==2.6.1
 PyQt5
 PyQtWebEngine
+aiohttp==3.8.1
+# Add any other dependencies your project needs
+
+
 
 

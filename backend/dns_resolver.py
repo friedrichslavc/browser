@@ -1,5 +1,17 @@
 # DNS解析框架
+import socket
+
 class DNSResolver:
+    def __init__(self):
+        self.cache = {}
+
     def resolve(self, domain):
-        # TODO: 实现DNS解析
-        return domain  # 暂时直接返回域名
+        if domain in self.cache:
+            return self.cache[domain]
+        
+        try:
+            ip = socket.gethostbyname(domain)
+            self.cache[domain] = ip
+            return ip
+        except socket.gaierror:
+            return None

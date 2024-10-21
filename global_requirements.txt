@@ -1,0 +1,6 @@
+# Global dependencies
+pytest
+flake8
+
+# Browser-specific dependencies
+-r browser/requirements.txt
