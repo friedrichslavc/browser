@@ -1,0 +1,22 @@
+2024-10-21 16:23:07,473 - INFO - Browser GUI initialized
+2024-10-21 16:23:07,563 - INFO - Browser GUI started
+2024-10-21 16:23:07,652 - INFO - Page loaded successfully: file:///G:/study/exercise_week/project01_HTTP_DNS/frontend/browser_ui.html
+2024-10-21 16:23:19,398 - INFO - URL changed to: http://www.baidu.com/
+2024-10-21 16:23:19,877 - INFO - JS: 无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+ (line 269, source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_29c3d0e.js)
+2024-10-21 16:23:19,879 - INFO - JS: %c百度2025校园招聘简历投递：https://talent.baidu.com/jobs/list color:red (line 269, source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_29c3d0e.js)
+2024-10-21 16:23:21,132 - INFO - Page loaded successfully: http://www.baidu.com/
+2024-10-21 16:23:35,762 - INFO - URL changed to: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=nih&fenlei=256&rsv_pq=0xb3989dd30000b978&rsv_t=1f53aGEROyPetHsFfhS0TX58jW3BWgJXHuMJjHqGnd36LQCnMMK%2B7iRvT%2F6d&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=4&rsv_sug1=2&rsv_sug7=101&rsv_sug2=0&rsv_btype=i&prefixsug=nih&rsp=5&inputT=1149&rsv_sug4=1888
+2024-10-21 16:23:54,368 - INFO - URL changed to: http://www.baidu.com/s?wd=美国nih相当于中国的哪里&rsf=101631101&rsp=0&f=1&rs_src=0&rsv_pq=b42d498800002a15&rsv_t=67c43vr1D0pu7saCV4tYCAqHakyjxUSLCn%2BEIvB0hIKoMqlssjEZgk0AoqY
+2024-10-21 16:24:02,648 - INFO - URL changed to: http://www.baidu.com/s?wd=美国nlh是什么单位&usm=2&ie=utf-8&rsv_pq=8c6b368a0003c3ef&oq=美国nih相当于中国的哪里&rsv_t=840f4%2F8zvl9TSfkxUfH20%2BUMXNctiMA0afA17Fh2rMgYNMQ3CJlBdhqFAZ0&rsf=101631101&rsv_dl=0_prs_28608_4
+2024-10-21 16:24:09,216 - INFO - JS: Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found. (line 0, source: http://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDnlh%E6%98%AF%E4%BB%80%E4%B9%88%E5%8D%95%E4%BD%8D&usm=2&ie=utf-8&rsv_pq=8c6b368a0003c3ef&oq=%E7%BE%8E%E5%9B%BDnih%E7%9B%B8%E5%BD%93%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%93%AA%E9%87%8C&rsv_t=840f4%2F8zvl9TSfkxUfH20%2BUMXNctiMA0afA17Fh2rMgYNMQ3CJlBdhqFAZ0&rsf=101631101&rsv_dl=0_prs_28608_4)
+2024-10-21 16:24:14,403 - INFO - JS: 无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+ (line 269, source: https://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_29c3d0e.js)
+2024-10-21 16:24:14,404 - INFO - JS: %c百度2025校园招聘简历投递：https://talent.baidu.com/jobs/list color:red (line 269, source: https://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_29c3d0e.js)
+2024-10-21 16:24:16,880 - INFO - Page loaded successfully: http://www.baidu.com/s?wd=美国nlh是什么单位&usm=2&ie=utf-8&rsv_pq=8c6b368a0003c3ef&oq=美国nih相当于中国的哪里&rsv_t=840f4%2F8zvl9TSfkxUfH20%2BUMXNctiMA0afA17Fh2rMgYNMQ3CJlBdhqFAZ0&rsf=101631101&rsv_dl=0_prs_28608_4
